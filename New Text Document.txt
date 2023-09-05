@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Anwayajyoti Dey\OneDrive\Desktop\Project Presentation\app.py"
